@@ -1,6 +1,6 @@
 # LightningBolt - Centroid-based Autosummarization #
 
-I miss Microsoft Word's Autosummarize feature.  I don't know why they removed it from Word 2010.  LightningBolt is a (very rudimentary, at this point) Ruby library that pays homage to [img](http://mattparmett.com/img/as.png) by conducting unsupervised centroid-based autosummarization on plaintext files.
+I miss Microsoft Word's Autosummarize feature.  I don't know why they removed it from Word 2010.  LightningBolt is a (very rudimentary, at this point) Ruby library that pays homage to ![lightning bolt](http://mattparmett.com/img/as.png) by conducting unsupervised centroid-based autosummarization on plaintext files.
 
 ## How to use LighningBolt ##
 
