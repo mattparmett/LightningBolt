@@ -5,7 +5,7 @@ I miss Microsoft Word's Autosummarize feature.  I don't know why they removed it
 ## How to use LighningBolt ##
 
 ```ruby
-include "./lightningbolt.rb"
+require "./lightningbolt.rb"
 as = LightningBolt.new("file.txt")
 summary = as.summary([filter_strength])
 ```
@@ -13,7 +13,7 @@ summary = as.summary([filter_strength])
 You can also directly tell LightningBolt to give you the summary:
 
 ```ruby
-include "./lightningbolt.rb"
+require "./lightningbolt.rb"
 summary = LightningBolt.summarize(file_path, filter_strength)
 ```
 
